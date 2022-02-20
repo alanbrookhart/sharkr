@@ -24,9 +24,9 @@ Any such use should acknowledge the source as the UNC-IMS longline shark survey 
 
 You can install the package with the data from bitbucket and then attach the package
 
-```{r, results=FALSE, warning=FALSE}
+```{r, results = FALSE, warning = FALSE}
 library("devtools")
-devtools::install_bitbucket("novisci/sharkr")
+devtools::install_github("alanbrookhart/sharkr")
 ```
 
 ## Codebook 
@@ -80,4 +80,4 @@ We also dropped records indicating that no sharks were caught on a particular lo
 
 Repository maintained by Alan Brookhart and Sara Levintow
 
-contact: abrookhart@novisci.com
+contact: alan@brookhart.org
