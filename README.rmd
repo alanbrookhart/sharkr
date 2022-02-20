@@ -24,7 +24,7 @@ Any such use should acknowledge the source as the UNC-IMS longline shark survey 
 
 You can install the package with the data from bitbucket and then attach the package
 
-```{r, results = FALSE, warning = FALSE}
+```{r, results = FALSE, warning = FALSE, eval = FALSE}
 library("devtools")
 devtools::install_github("alanbrookhart/sharkr")
 ```

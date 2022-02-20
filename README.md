@@ -24,13 +24,7 @@ You can install the package with the data from bitbucket and then attach
 the package
 
     library("devtools")
-
-    ## Loading required package: usethis
-
     devtools::install_github("alanbrookhart/sharkr")
-
-    ## Skipping install of 'sharkr' from a github remote, the SHA1 (c910bd12) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
 
 Codebook
 --------
